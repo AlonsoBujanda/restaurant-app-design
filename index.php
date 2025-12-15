@@ -12,7 +12,7 @@
         include_once("conexion.php");
         Cconexion::ConexionBD();
     ?>
-    
+    <!--Hola Bastida-->
     <!-- Hero Section -->
     <div class="hero-section">
         <div class="hero-overlay"></div>
